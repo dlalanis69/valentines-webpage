@@ -1,0 +1,19 @@
+# OS (Mac / Windows)
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Node (por si algún día agregas npm)
+node_modules/
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.temp
